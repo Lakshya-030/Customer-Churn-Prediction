@@ -12,51 +12,52 @@ Records: 7,043 customers
 Features: Customer demographics, service usage, billing details, contract information, and churn status.
 
 # Tech Stack
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Jupyter Notebook
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Scikit-learn
+-Jupyter Notebook
 
 # Project Workflow
-Data Loading
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Label Encoding
-Train-Test Split
-Model Building
-Model Evaluation
-Model Comparison
-Hyperparameter Tuning
+1.Data Loading
+2.Data Cleaning
+3.Exploratory Data Analysis (EDA)
+4.Feature Engineering
+5.Label Encoding
+6.Train-Test Split
+7.Model Building
+8.Model Evaluation
+9.Model Comparison
+10.Feature Importance
+11.Hyperparameter Tuning
 
 # Machine Learning Models
-Logistic Regression
-Decision Tree Classifier
-Random Forest Classifier
+-Logistic Regression
+-Decision Tree Classifier
+-Random Forest Classifier
 
 # Evaluation Metrics
-Accuracy
-Precision
-Recall
-F1 Score
-ROC-AUC Score
-Confusion Matrix
+-Accuracy
+-Precision
+-Recall
+-F1 Score
+-ROC-AUC Score
+-Confusion Matrix
 
 # Results
 Model	Accuracy
-Logistic Regression	80.34%
-Random Forest	78.35%
-Decision Tree	74.02%
+-Logistic Regression	80.34%
+-Random Forest	78.35%
+-Decision Tree	74.02%
 
 Best Performing Model: Logistic Regression
 
 # Future Improvements
-Perform advanced feature engineering.
-Experiment with Gradient Boosting and XGBoost.
-Deploy the model using Streamlit or Flask.
-Optimize hyperparameters further.
+-Perform advanced feature engineering.
+-Experiment with Gradient Boosting and XGBoost.
+-Deploy the model using Streamlit or Flask.
+-Optimize hyperparameters further.
 
 Customer-Churn-Prediction/
 --Customer_Churn_Prediction.ipynb
