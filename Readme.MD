@@ -24,7 +24,7 @@ Features: Customer demographics, service usage, billing details, contract inform
 2.Data Cleaning
 3.Exploratory Data Analysis (EDA)
 4.Feature Engineering
-5.Label Encoding
+5.Label Encoding and One-Hot Encoding
 6.Train-Test Split
 7.Model Building
 8.Model Evaluation
@@ -47,9 +47,9 @@ Features: Customer demographics, service usage, billing details, contract inform
 
 # Results
 Model	Accuracy
--Logistic Regression	80.34%
--Random Forest	78.35%
--Decision Tree	74.02%
+-Logistic Regression	79.8%
+-Random Forest	78.5%
+-Decision Tree	72.9%
 
 Best Performing Model: Logistic Regression
 
